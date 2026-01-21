@@ -21,3 +21,9 @@
 
 ```diff
 + whoami
++ toolchain --list
++ ops_dashboard --realtime
++ activity_trace --visual
++ focus_areas
++ links --pending
+
