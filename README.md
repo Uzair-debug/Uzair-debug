@@ -5,3 +5,6 @@
 - 🌱 I’m currently learning how to pentest
 - 👯 I’m looking to collaborate on MEANINGFUL projects
 - 🤔 I’m looking for help with full stacking
+
+## Contribution Snake
+![snake animation](https://github.com/<YOUR_USERNAME>/<YOUR_USERNAME>/blob/output/github-contribution-grid-snake.svg)
