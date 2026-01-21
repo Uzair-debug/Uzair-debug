@@ -33,6 +33,4 @@
 + Security-first builds • Speed • Clean UI • Conversion focused
 
 + links --active
-+ Portfolio: https://yourlinkhere.com
-+ LinkedIn: https://yourlinkhere.com
-+ Email: your@email.com
++ Email: mogamaduzair@gmail.com
