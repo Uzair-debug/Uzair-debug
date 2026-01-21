@@ -4,7 +4,7 @@
 =============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=UZair-debug&fontAlign=50&fontAlignY=40&desc=Web%20Designer%20%7C%20Cybersecurity%20%7C%20Digital%20Forensics&descAlign=50&descAlignY=60&color=0:0b0f14,100:1a0000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Uzair-debug&fontAlign=50&fontAlignY=40&desc=Web%20Designer%20%7C%20Cybersecurity%20%7C%20Digital%20Forensics&descAlign=50&descAlignY=60&color=0:0b0f14,100:1a0000" />
 </p>
 
 <p align="center">
