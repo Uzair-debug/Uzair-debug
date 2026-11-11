@@ -39,7 +39,7 @@ Junior Cloud Engineer Associate at **Crimson Line**, a Microsoft service provide
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Cyber Tools Portal](https://cyber-tools-portal.clsit.workers.dev)** | A SOC analyst toolkit with 20+ tools: IOC extraction, IP and domain reputation, email header and threat analysis, JWT auditing, a CVSS 3.1 calculator, a SIEM query builder, MITRE ATT&CK mapping, SSL/TLS and security header checks, and Defender/Purview audit helpers. | Next.js · TypeScript · Cloudflare Workers · Vitest |
+| **[Cyber Tools Portal](https://github.com/Uzair-debug/cyber-tools)** | A SOC analyst toolkit with 20+ tools: IOC extraction, IP and domain reputation, email header and threat analysis, JWT auditing, a CVSS 3.1 calculator, a SIEM query builder (KQL, SPL, Sigma), MITRE ATT&CK mapping, SSL/TLS and security header checks, and Defender/Purview audit helpers. | Next.js · TypeScript · Cloudflare Workers · Vitest |
 | **EML Phishing Checker** | Offline `.eml` analyzer. Checks SPF/DKIM/DMARC alignment, DKIM `h=` coverage, link and display-text mismatches, attachments and relay chains, then scores each finding with a plain explanation. Includes a built-in self-test of about 120 assertions and handles batch triage. | JavaScript · Electron · Cloudflare Pages |
 | **Advanced Lookup** | Domain, IP and HTTP security inspector with a subnet/CIDR planner and script generator. | React · TypeScript · Vite |
 
